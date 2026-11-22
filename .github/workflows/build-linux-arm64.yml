@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main
+      - zxej0091-afk-patch-1
 
 permissions:
   contents: read
